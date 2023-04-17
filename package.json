@@ -1,6 +1,6 @@
 {
     "name": "frontend",
-    "proxy": "http://127.0.0.1:5000",
+    "proxy": "awseb-AWSEB-1A4A9J3R3VZEL-997524964.ca-central-1.elb.amazonaws.com",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
